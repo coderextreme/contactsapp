@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "next": "*",
+    "glob": "^13.0.0",
     "react": "*",
     "react-dom": "*",
     "x3dom": "*"
